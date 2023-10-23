@@ -1,0 +1,1 @@
+const TripDetails ='api/getplaces' ;
