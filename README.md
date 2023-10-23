@@ -23,14 +23,14 @@ In summary, my Flutter Traveling App is a feature-rich and visually stunning app
 ## Screenshots And  Video 
 
 <p >
-  <img src="https://github.com/AhmedBelal31/Advanced_Traveling_App/assets/131663660/02b69c11-255c-487a-ac7c-f0c1556634a3" width="250" />
+  <img src="https://github.com/AhmedBelal31/Advanced_Traveling_App/assets/131663660/02b69c11-255c-487a-ac7c-f0c1556634a3" width="300" />
 
 
-  <img src="https://github.com/AhmedBelal31/Advanced_Traveling_App/assets/131663660/b11ff343-2c4f-447a-8281-b8e11341cc1a" width="250" />
+  <img src="https://github.com/AhmedBelal31/Advanced_Traveling_App/assets/131663660/b11ff343-2c4f-447a-8281-b8e11341cc1a" width="300" />
 
 
 
-  <img src="https://github.com/AhmedBelal31/Advanced_Traveling_App/assets/131663660/3896bc8c-29ed-41df-adbd-9828f428280a" width="250" />
+  <img src="https://github.com/AhmedBelal31/Advanced_Traveling_App/assets/131663660/3896bc8c-29ed-41df-adbd-9828f428280a" width="300" />
 </p>
 
 
